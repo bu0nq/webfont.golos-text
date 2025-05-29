@@ -1,13 +1,11 @@
 {
   "name": "@bu0nq/webfont.golos-text",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Package for integrating WebFont Golos Text",
   "main": "golos-text.css",
   "files": [
-    "fonts/*.{woff2, woff}",
-    "css/*.css",
-    "less/*.less",
-    "scss/*.scss"
+    "./**/*.{css, less, scss}",
+    "./fonts/*.{woff2, woff}"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
