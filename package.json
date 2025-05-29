@@ -1,6 +1,6 @@
 {
   "name": "@bu0nq/webfont.golos-text",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Package for integrating WebFont Golos Text",
   "main": "golos-text.css",
   "scripts": {
