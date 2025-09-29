@@ -28,18 +28,18 @@ body {
 ### Importing
 
 ```css
-@import "~@bu0nq/webfont.golos-text/golos-text.css";
-@import "~@bu0nq/webfont.golos-text/golos-text-normal.css";
+@import "@bu0nq/webfont.golos-text/golos-text.css";
+@import "@bu0nq/webfont.golos-text/golos-text-normal.css";
 ```
 
 To import specific fonts, you can use:
 
 ```css
-@import "~@bu0nq/webfont.golos-text/css/golos-text-400-normal.css";
-@import "~@bu0nq/webfont.golos-text/css/golos-text-500-normal.css";
-@import "~@bu0nq/webfont.golos-text/css/golos-text-600-normal.css";
-@import "~@bu0nq/webfont.golos-text/css/golos-text-700-normal.css";
-@import "~@bu0nq/webfont.golos-text/css/golos-text-900-normal.css";
+@import "@bu0nq/webfont.golos-text/css/golos-text-400-normal.css";
+@import "@bu0nq/webfont.golos-text/css/golos-text-500-normal.css";
+@import "@bu0nq/webfont.golos-text/css/golos-text-600-normal.css";
+@import "@bu0nq/webfont.golos-text/css/golos-text-700-normal.css";
+@import "@bu0nq/webfont.golos-text/css/golos-text-900-normal.css";
 ```
 
 ## Usage (LESS)
@@ -55,18 +55,18 @@ body {
 ### Importing
 
 ```less
-@import "~@bu0nq/webfont.golos-text/golos-text";
-@import "~@bu0nq/webfont.golos-text/golos-text-normal";
+@import "@bu0nq/webfont.golos-text/golos-text";
+@import "@bu0nq/webfont.golos-text/golos-text-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```less
-@import "~@bu0nq/webfont.golos-text/less/golos-text-400-normal";
-@import "~@bu0nq/webfont.golos-text/less/golos-text-500-normal";
-@import "~@bu0nq/webfont.golos-text/less/golos-text-600-normal";
-@import "~@bu0nq/webfont.golos-text/less/golos-text-700-normal";
-@import "~@bu0nq/webfont.golos-text/less/golos-text-900-normal";
+@import "@bu0nq/webfont.golos-text/less/golos-text-400-normal";
+@import "@bu0nq/webfont.golos-text/less/golos-text-500-normal";
+@import "@bu0nq/webfont.golos-text/less/golos-text-600-normal";
+@import "@bu0nq/webfont.golos-text/less/golos-text-700-normal";
+@import "@bu0nq/webfont.golos-text/less/golos-text-900-normal";
 ```
 
 ## Usage (SCSS)
@@ -82,18 +82,18 @@ body {
 ### Importing
 
 ```scss
-@use "~@bu0nq/webfont.golos-text/golos-text";
-@use "~@bu0nq/webfont.golos-text/golos-text-normal";
+@use "@bu0nq/webfont.golos-text/golos-text";
+@use "@bu0nq/webfont.golos-text/golos-text-normal";
 ```
 
 To import specific fonts, you can use:
 
 ```scss
-@use "~@bu0nq/webfont.golos-text/scss/golos-text-400-normal";
-@use "~@bu0nq/webfont.golos-text/scss/golos-text-500-normal";
-@use "~@bu0nq/webfont.golos-text/scss/golos-text-600-normal";
-@use "~@bu0nq/webfont.golos-text/scss/golos-text-700-normal";
-@use "~@bu0nq/webfont.golos-text/scss/golos-text-900-normal";
+@use "@bu0nq/webfont.golos-text/scss/golos-text-400-normal";
+@use "@bu0nq/webfont.golos-text/scss/golos-text-500-normal";
+@use "@bu0nq/webfont.golos-text/scss/golos-text-600-normal";
+@use "@bu0nq/webfont.golos-text/scss/golos-text-700-normal";
+@use "@bu0nq/webfont.golos-text/scss/golos-text-900-normal";
 ```
 
 ## Licensing
